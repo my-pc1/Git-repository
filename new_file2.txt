@@ -1,0 +1,3 @@
+command of git 
+git init 
+git add
