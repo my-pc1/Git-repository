@@ -1,4 +1,5 @@
 Good Morning
 Today is Tuesday.
 today weather is cloudy
-It might be rainy
+It might be rain
+Have a nice day
