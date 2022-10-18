@@ -1,2 +1,3 @@
 Good Morning
 Today is Tuesday.
+today weather is cloudy
