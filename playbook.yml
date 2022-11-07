@@ -1,0 +1,15 @@
+---
+ - name: loop
+   hosts: all
+   become: true
+   tasks:
+   - name: installing packages
+     ansible.builtin.apt:
+       name: apache2
+       state: latest
+
+   - name: startng packages
+     ansible.builtin.apt:
+       name: apache2
+       state: fixed
+...
